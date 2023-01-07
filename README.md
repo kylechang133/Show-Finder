@@ -1,2 +1,2 @@
 # TVShowInformation
-This program uses an API to find information about your favourite TV shows
+This program uses an API to find general information about your favourite TV shows
