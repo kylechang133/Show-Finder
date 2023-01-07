@@ -1,7 +1,6 @@
 '''
 This program uses a REST API to search popular shows
 Author: Kyle
-November 18, 2022
 '''
 import requests
 
