@@ -1,0 +1,8 @@
+# Data
+*.json
+__pycache__/
+
+# Virtual Environments
+venv/
+
+.DS_Store
